@@ -1,2 +1,3 @@
 echo("hello world!");
 print("Привет мир");
+print("hello");
