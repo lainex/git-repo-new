@@ -1,3 +1,3 @@
-echo("hello world!");
-print("Привет мир");
-print("hello");
+echo("hello world!"); /
+print("Привет мир"); /
+print("hello"); /
