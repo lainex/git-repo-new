@@ -2,3 +2,4 @@ echo("hello world!");
 print("Привет мир");
 print("hello");
 print("hello my friend!");
+print("Nice to see you!");
