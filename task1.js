@@ -3,6 +3,7 @@ function FixedDigits(i, a, b){
         var convert = i.toString(b);    
     }else{
         var convert = parseInt(i,a);
+	var convert = convert.toString(b);
     }    
     return convert;
 }
